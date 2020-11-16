@@ -10,6 +10,7 @@
 library(shiny)
 library(shinythemes)
 library(plotly)
+library(DT)
 
 
 # Define UI for application that draws a histogram
